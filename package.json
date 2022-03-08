@@ -1,0 +1,10 @@
+{
+    "name": "image-to-text-converter",
+    "author": "blazecoding",
+    "repository": "https://github.com/blazecoding2009/Image-to-text-converter",
+    "dependencies": {
+      "terminal-kit": "^2.4.0",
+      "text-from-image": "^1.1.1"
+    }
+  }
+  
